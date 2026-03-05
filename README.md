@@ -27,7 +27,7 @@ HTML, CSS, JavaScript, Swift, Git, Figma, VS Code
 - [Paneless](https://github.com/DYNNIwav/paneless) - A tiling window manager for macOS, built in Swift
 - [Rettlinja](https://github.com/DYNNIwav/rettlinja) - A non-biased news website in nynorsk, inspired by Straight Arrow News
 - [VitenOslo](https://github.com/DYNNIwav/semester-project1--Paal-Omland-Eilevstjoenn) - Science museum website with glass morphism design
-- [Kollega og Venn](https://github.com/DYNNIwav/kollegaogvenn) - Real website built for a friend's business
+- [Kollega og Venn](https://github.com/DYNNIwav/kollegaogvenn) - Live website for a Norwegian marketing agency
 
 ## 🌍 Find me
 
