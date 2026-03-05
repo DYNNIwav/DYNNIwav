@@ -1,26 +1,34 @@
-# Hi, I'm Pål (DYNNI)
+# Hey, I'm Pål 👋🎧
 
-Front-end development student at Noroff School of Technology and Digital Media.
+```
+$ ./dynni --about
 
-## About Me
+> Front-end dev student at Noroff.
+> Sound engineer turned developer.
+> Building things I wish existed.
+> Speaks fluent vinjemål, JavaScript and CSS.
+```
 
-I'm passionate about building clean and user-friendly websites and apps. Currently studying front-end development at Noroff, while also exploring backend development through Boot.dev and building native apps in Swift for macOS and iOS.
+When I'm not writing code, I'm probably making music, recording something, or playing games. I got into development because I've always been into technology through music production and sound engineering, and at some point I realized I wanted to build things for screens too, not just speakers.
 
-## Technologies and Tools
+## What I'm up to
 
-- HTML, CSS, JavaScript
-- Git / GitHub
-- Swift
-- Figma
-- VS Code
+- 📚 Studying front-end development at Noroff
+- 🍎 Building macOS/iOS apps in Swift on the side
+- 🌱 Picking up backend development through Boot.dev
+- 🎵 Still making music and doing audio production
 
-## Featured Projects
+## 🛠️ Tools I work with
 
-- [Rainy Days](https://github.com/DYNNIwav/html-css--Paal-Omland-Eilevstjoenn-) - Online store for rain jackets with API integration and shopping cart
-- [VitenOslo](https://github.com/DYNNIwav/semester-project1--Paal-Omland-Eilevstjoenn) - Science museum website with glass morphism design and sidebar navigation
+HTML, CSS, JavaScript, Swift, Git, Figma, VS Code
+
+## 🚀 Projects
+
 - [Paneless](https://github.com/DYNNIwav/paneless) - A tiling window manager for macOS, built in Swift
+- [Rettlinja](https://github.com/DYNNIwav/rettlinja) - A non-biased news website in nynorsk, inspired by Straight Arrow News
+- [VitenOslo](https://github.com/DYNNIwav/semester-project1--Paal-Omland-Eilevstjoenn) - Science museum website with glass morphism design
+- [Kollega og Venn](https://github.com/DYNNIwav/kollegaogvenn) - Real website built for a friend's business
 
-## Contact
+## 🌍 Find me
 
-- [Website](https://dynni.no)
-- [GitHub](https://github.com/DYNNIwav)
+- [dynni.no](https://dynni.no)
